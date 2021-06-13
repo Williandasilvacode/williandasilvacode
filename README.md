@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-Eu sou Willian,Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixona por tecnologia e inovação, estou sempre em busca de novos desafios.
+Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixona por tecnologia e inovação, estou sempre em busca de novos desafios.
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
@@ -39,19 +39,19 @@ Eu sou Willian,Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixo
 </br>
 
 <p align="center">
-   <a href="https://github.com/jacksonhmteixeira?tab=repositories">
+   <a href="https://github.com/Williandasilvacode?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonhmteixeira&langs_count=8&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandasilvacode&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
   
-  <a href="https://github.com/jacksonhmteixeira?tab=repositories">
+  <a href="https://github.com/Williandasilvacode?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jacksonhmteixeira&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=williandasilvacode&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
 
