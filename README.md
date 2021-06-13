@@ -43,7 +43,7 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandasilvacode&langs_count=8&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandasilvacode&langs_count=8&layout=compact&theme=midnight-purple"
     />
   </a>
   
@@ -51,11 +51,10 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=williandasilvacode&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=williandasilvacode&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=midnight-purple"
     />
   </a>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 </p>
