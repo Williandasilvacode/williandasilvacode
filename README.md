@@ -32,7 +32,7 @@ Eu sou Willian,Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixo
 <p align="center">
    <a href="https://github.com/Williandasilvacode?tab=repositories">
     <img
-      align="center"
+      align="left"
       height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandasilvacode&langs_count=8&layout=compact&theme=dracula"
     />
