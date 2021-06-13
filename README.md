@@ -41,7 +41,7 @@ Eu sou Willian,Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixo
   <a href="https://github.com/Williandasilvacode?tab=repositories">
     <img
       align="center"
-      height="165"
+      height=""
       src="https://github-readme-stats.vercel.app/api?username=williandasilvacode&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
