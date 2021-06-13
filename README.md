@@ -14,8 +14,13 @@ Eu sou Willian,Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixo
 
 ### Redes Sociais:
 
-
-    <a href="https://www.linkedin.com/in/willian-da-silva-oficial/" alt="Linkedin">
+   ![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+      <a href="https://www.linkedin.com/in/willian-da-silva-oficial/" alt="Linkedin">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        
+      </a>
+    
+        <a href="https://www.linkedin.com/in/willian-da-silva-oficial/" alt="Linkedin">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 
