@@ -54,7 +54,5 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
       src="https://github-readme-stats.vercel.app/api?username=williandasilvacode&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=midnight-purple"
     />
   </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 
 </p>
