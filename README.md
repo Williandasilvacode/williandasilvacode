@@ -43,7 +43,7 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
    <a href="https://github.com/williandasilvacode?tab=repositories">
     <img
       align="center"
-      height="165"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=williandasilvacode&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
@@ -51,7 +51,7 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
   <a href="https://github.com/williandasilvacode?tab=repositories">
     <img
       align="center"
-      height="155"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=williandasilvacode&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
