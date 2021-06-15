@@ -26,6 +26,11 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
    <a href="https://t.me/willian_oficial" alt="Telegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  
+  <a href="mailto=williandasilvaoficial@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 
 </br>
 
