@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixona por tecnologia e inovação, estou sempre em busca de novos desafios.
+Eu sou Willian Da Silva, um estudante de Analise e Desenvolvimento de Sistema, apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios, que me permitar, aprimorar e desenvolver novas abilidades.
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
@@ -10,7 +10,7 @@ Eu sou Willian, Sou estudante de Analise e Desenvolvimento de Sistema, sou apaix
 - 💻 Estudante
 - 🎓 Analise e Desenvolvimento de Sistema
 - 🎉 27 Anos
-- 📌 Brasil
+- 📌 Goiânia, Goiás, Brasil
 
 ### Redes Sociais e Contatos:
 
