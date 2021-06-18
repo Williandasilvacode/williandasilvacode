@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-Eu sou Willian Da Silva, um estudante de Analise e Desenvolvimento de Sistema, apaixonado por tecnologia e inovação, estou sempre em busca de novos desafios, que me permitar, aprimorar e desenvolver novas abilidades.
+Eu sou Willian Da Silva, um estudante de Analise e Desenvolvimento de Sistema, apaixonado por tecnologia e inovação, estou sempre em busca de aprimorar e desenvolver novas habilidades.
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
